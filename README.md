@@ -1,4 +1,3 @@
 # ARNetworking
-this is my first networking repository
 
-csdcdscsdcsd
+A description of this package.
